@@ -1,0 +1,27 @@
+  div.body{
+    padding-left: 5%;
+    padding-top: 1cm;
+    height: 100vh;
+  }
+
+  div.body-poem {
+    padding-top: 1cm;
+    height: 100vh;
+  }
+
+  html {
+    min-height: 100%;
+  }
+
+  body {
+    height: 100vh;
+    background-color: #DCD0C0;
+    margin-left: 0;
+  }
+
+  div.default-body {
+    margin-left: 5%;
+    margin-top: 1cm;
+    margin-right: 22%;
+    text-align: justify;
+  }

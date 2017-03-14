@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{page.title}}</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/navbar.css">
+  <link rel="stylesheet" href="css/profil.css">
+</head>
+<body>
+
+  {% include navigation_bar.html %}
+
+  <div class ="body">
+    <div class="flex-container">
+      <div class="flex-sidebar">
+        <div class="circle-photo">
+          <img src="img/github_profil_photo.jpg"></img>
+        </div>
+        <div class="name">
+          <h1 class="bold"> {{ page.myname | upcase  }} </h1>
+        </div>
+        <div class="personal-info">
+          <p class="bigger"><b>Vek: </b> {{ page.age }} </p>
+          <p class="bigger"><b>Povolanie: </b> {{ page.job }}</p>
+          <p class="bigger"><b>E-mail: </b> {{ page.email }} </p>
+        </div>
+
+      </div>
+      <div class="flex-page">
+        <div class="about">
+
+          {{ content }}
+
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+
+</body>
+</html>

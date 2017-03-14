@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{page.title}}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/navbar.css">
+  <link rel="stylesheet" href="/css/task.css">
+</head>
+
+<body class="background">
+
+  {% include navigation_bar.html %}
+
+  <div class ="body">
+    <div class="flex-container">
+      <div class="flex-sidebar">
+        <ul class="sidebar">
+          {% assign tasks = site.tasks | sort: 'weight' %}
+          {% for task in tasks %}
+            {% if task.weight %}
+            <li class="sidebar"><a href="{{ task.url }}"> {{task.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="flex-page">
+        <div>
+          <p class="task-name">{{ page.title}} - {{ | append: page.description }}</p>
+          <div class="task-body">
+
+            {{ content }}
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-wrap: wrap;
+    padding-top: 1cm;
+
+}
+
+.flex-container-third {
+  display: -webkit-flex;
+  display: flex;
+  width: 33.33%;
+  height: 100vh;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
+p {
+  margin-right: 1cm;
+  margin-left: 1cm;
+}
+
+
+div.center {
+
+  display: block;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+}
+
+body.background{
+  background-image:url('/img/background_img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+p.align {
+  display: inline-block;
+  width: 90%;
+  height: 100%;
+  text-align: justify;
+  margin-right: 1cm;
+  margin-left: 1cm;
+}

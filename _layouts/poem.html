@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{page.title}}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/navbar.css">
+  <link rel="stylesheet" href="/css/poem.css">
+
+</head>
+<body class="background">
+
+  {% include navigation_bar.html %}
+
+  <div class ="body-poem">
+    <div class="flex-container">
+      <div class="flex-container-third"></div>
+      <div class="flex-container-third">
+          <div class="center">
+
+            <!-- VYMAZTE ZNACKY KOMENTARA A TENTO TEXT  pre zobrazovanie trvania precitania basnicky, github blokuje plugin a preto s tymto filtrom rozhadze stranku
+
+            <p> Túto báseň prečítate
+              {{ content | reading_time }}
+            </p>
+
+            -->
+
+
+            <h3 style="text-align:center"> {{ page.title}} </h3>
+
+            {{ content }}
+
+
+
+          </div>
+
+      </div>
+      <div class="flex-container-third"></div>
+    </div>
+  </div>
+
+
+</body>
+</html>

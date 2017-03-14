@@ -1,0 +1,25 @@
+---
+layout: layout1
+title: Voľný čas
+nav-weight: 5
+---
+
+
+  <div class="flex-sidebar">
+    <div class="border-right">
+      <p class="introductory">
+      Keďže som študentom na FIIT STU, veľa voľného času nemám. Keď už sa ale nájde aspoň chvíľka, rád sa venujem cudzím jazykom, momentálne nórčine. Z času na čas napíšem aj nejakú báseň. Tu je ukážka mojej tvorby:
+      </p>
+    </div>
+  </div>
+
+  <div class="flex-container-half">
+    {% for poem in site.poems %}
+    <div class="flex-item">
+
+      <a href="{{poem.url | prepend:site.baseurl}}"><b>{{poem.title}}</b></a>
+
+    </div>
+    {% endfor %}
+
+  </div>
