@@ -24,5 +24,6 @@ V rámci šablón som podľa požiadaviek použil tieto elementy :
 4. if : v layout-e task.html
 5. append : v layoute task.html
 6. upcase : v layoute profil.html
+7. sort : v layoute task.html
 + **plugin** : *reading_time* zo stránky jekyll.tips, ktorý som upravil, aby zobrazoval slovenský text a nie anglický, používam ho v layout-e
 poem.html, nad každou básničkou zobrazí informáciu, koľko minút bude čitateľovi približne trvať, kým ju prečíta.
