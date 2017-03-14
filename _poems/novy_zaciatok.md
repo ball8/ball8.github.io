@@ -17,3 +17,5 @@ Konečne som otvoril naplno obe oči,
 uvidel veci tak ako som ich ešte nevidel.  
 Mám túžbu ísť ďalej, nikdy neskončiť,  
 vychutnať si život taký aký je – bez pravidiel.  
+
+**Autor:** *Martin Dzik*
