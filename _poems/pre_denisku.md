@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Deniske
+title: Pre Denisku
 author: Martin Dzik
 ---
 
