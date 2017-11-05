@@ -19,6 +19,6 @@ doplnená tvojou krásou
 opantáva ma vždy, keď som s tebou.
 Na nič sa nehráš, si sama sebou,
 tak neobyčajná, milá, príťažlivá.
-Chcem spoznať všetko, čo vo svojom vnútri skrývaš.
+Chcem spoznať všetko, čo vo svojom vnútri skrývaš. 
 
 **Autor:** *Martin Dzik*  
