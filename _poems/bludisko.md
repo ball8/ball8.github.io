@@ -5,7 +5,7 @@ author: Martin Dzik
 ---
 
 Nádych, výdych , posledné zvyšky síl,  
-keď túžiš vstať a odísť ,  
+keď túžiš vstať a odísť,  
 nájsť miesto, kde by si sa skryl,  
 bez bolesti sa zaobísť.  
 
