@@ -5,7 +5,7 @@ author: Martin Dzik
 ---
 
 Je to nejaký druh depresie,  
-nesplnené sny ilúzie.  
+nesplnené sny, ilúzie.  
 Bezvýznamná chvíľa  
 v myšlienke sa skryla.  
 
