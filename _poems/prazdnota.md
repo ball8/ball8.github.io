@@ -12,12 +12,12 @@ v myšlienke sa skryla.
 Zbytočné slová.  
 Bolesť nová,  
 opäť ma do tmy volá  
-- smútok za vrchom stola.  
+-smútok za vrchom stola.  
 
 Duša holá  
 so mnou bola.  
 Hodina skorá  
-- hlava je chorá.  
+-hlava je chorá.  
 
 Pomýlené predstavy,  
 ktoré sa nikdy nestali.  
