@@ -20,6 +20,6 @@ Nikto tu nie je.
 
 Myslíš, že sa to vstrebe?  
 Príď, pozývam ťa k sebe,  
-vysvetlí mi, čo sa so mnou deje.  
+vysvetli mi, čo sa so mnou deje!  
 
 **Autor:** *Martin Dzik*  
