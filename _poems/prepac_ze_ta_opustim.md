@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Jedinečná
+title: Prepáč, že ťa opustím
 author: Martin Dzik
 ---
 
