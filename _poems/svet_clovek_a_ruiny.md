@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Človek svet a ruiny
+title: Svet, človek a ruiny
 author: Martin Dzik
 ---
 
