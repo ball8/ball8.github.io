@@ -20,7 +20,7 @@ nesedieť zamknutý v opustenej veži,
 veď ten čas tak neskutočne rýchlo beží.
 
 Bojím sa opustiť, čo tu teraz mám,  
-ísť či nejsť, nekonečný hlavolam.  
+ísť či neísť, nekonečný hlavolam.  
 Prerušiť tú dobrovoľnú samotu,  
 odhaliť duševnú nahotu.
 
