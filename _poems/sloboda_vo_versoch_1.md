@@ -24,7 +24,7 @@ precestovať svet a zakričať zhlboka,
 nič konkrétne, len dostať zo seba všetko, čo vo mne tlie,  
 napísať pár rýmov, alebo aspoň pár viet.
 
-Sadnúť si spolu k stolu a nejsť spať,  
+Sadnúť si spolu k stolu a neísť spať,  
 Prestať sa aspoň na chvíľu niekam ponáhľať.  
 Život je aj o tom vedieť sa občas zastaviť,  
 Nič neočakávať, len prítomnosť pochopiť.
