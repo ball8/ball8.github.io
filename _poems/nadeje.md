@@ -5,7 +5,7 @@ title: Nádeje
 
 Obohrané gestá.  
 Nikdy nič veľa nepovedali.  
-Opustené mestá  
+Opustené mestá,  
 v ktorých ľudia nikdy neprotestovali.  
 
 Dve krajiny, čo vedú vojny.  
