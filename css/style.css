@@ -1,7 +1,7 @@
   div.body{
     padding-left: 5%;
     padding-top: 1cm;
-    height: 100vh;
+    height: 100%;
   }
 
   div.body-poem {
@@ -14,7 +14,7 @@
   }
 
   body {
-    height: 100vh;
+    height: 100%;
     background-color: #DCD0C0;
     margin-left: 0;
   }
