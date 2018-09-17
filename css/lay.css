@@ -34,6 +34,7 @@
 .flex-item {
     background-color: #1D2731;
     border: 1px;
+    border-radius: 5px;
     width: 200px;
     height: 50px;
     margin: 20px;
